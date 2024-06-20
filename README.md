@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Pathan-Mohammad-Rashid
-- 👀 I’m interested in exploring various fields of Computer Science such as Machine Learning, Robotics, and Web Development.
-- 🌱 I’m currently learning about machine learning algorithms, robotics programming, and advanced web development techniques.
-- 💞️ I’m looking to collaborate on projects related to machine learning, robotics, and web development. I'm particularly interested in projects that incorporate creative solutions and accessibility features.
-- 📫 How to reach me: You can connect with me on LinkedIn at [Mohammad Rashid Pathan](https://www.linkedin.com/in/mohammadrashid-pathan/) or drop me an email at [pathanmohammadrashid@gmail.com](mailto:pathanmohammadrashid@gmail.com).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Beyond my academic pursuits, I enjoy indulging in origami-paper folding art and watching movies. I'm also passionate about graphic design and video editing.
+- 👋 Hi, I am @Pathan-Mohammad-Rashid
+- I am interested in exploring various fields of Computer Science such as Machine Learning, Robotics, and Web Development.
+- I am currently learning about machine learning algorithms, robotics programming, and advanced web development techniques.
+- I am looking to collaborate on projects related to machine learning, robotics, and web development. I am particularly interested in projects that incorporate creative solutions and accessibility features.
+- How to reach me: You can connect with me on LinkedIn at [Mohammad Rashid Pathan](https://www.linkedin.com/in/mohammadrashid-pathan/) or drop me an email at [pathanmohammadrashid@gmail.com](mailto:pathanmohammadrashid@gmail.com) / [mohammadrashid.pathan@iitgn.ac.in](mailto:mohammadrashid.pathan@iitgn.ac.in).
+- Pronouns: He/Him
+- Fun fact: Beyond my academic pursuits, I enjoy indulging in origami-paper folding art and watching movies. I'm also passionate about graphic design and video editing.
 
 
 As a Physically Handicapped Student, my life's mantra is "My abilities are greater than my disabilities." This philosophy fuels my motivation to explore new horizons, maintain a growth mindset, and focus on continuous professional development.
